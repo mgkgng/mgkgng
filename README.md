@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🌱 Projects in progress :
+42Projects-CommonCore (2021.10 ~ )
+
 <!--
 **mgkgng/mgkgng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
