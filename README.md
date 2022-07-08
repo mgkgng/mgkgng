@@ -9,7 +9,7 @@
 🌱 Projects in progress :
 
 - 42Projects-CommonCore (2021.10 ~ )
-- 42Chess.com (2022.07 ~ )
+- 42chess.com (2022.07 ~ )
 
 <!--
 
