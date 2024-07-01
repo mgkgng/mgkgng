@@ -3,14 +3,14 @@
 ### My name is Minguk, and I'm looking for a professional opportunity.
 ### I can be your Web / Mobile Full-Stack Developer, Problem-Solver or UX Designer.
 
-## I would be particularly interested to be engaged in...
-# - building services or products related with Art / Culture / Entertainement / Education sectors,
-# - or those for the new technologies (AI / LLM, AR / VR)
-# - and a remote-friendly work environment
-  
-## Please feel free to reach out ! 🕊️
+### I would be particularly interested to be engaged in...
+ - building services or products related with Art / Culture / Entertainement / Education sectors,
+ - or those for the new technologies (AI / LLM, AR / VR)
+ - and a remote-friendly work environment
 
-## Check out my portfolio [here](https://mgkgng.github.io) 💁🏻‍♂️
+Please feel free to reach out ! 🕊️
+
+### Check out my portfolio [here](https://mgkgng.github.io) 💁🏻‍♂️
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mgkgng)](https://git.io/streak-stats)
 
