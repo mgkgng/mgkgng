@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is **Minguk**, and I'm looking for a professional opportunity.
-I can be your **Web / Mobile Full-Stack Developer, Problem-Solver or UX Designer**. (And I'm also opened to challenges...)
+I can be your **Web / Mobile Full-Stack Developer, Problem-Solver or UX Designer**.
 
 I would be particularly interested to be engaged in...
  - building services or products related with **Art / Culture / Entertainement / Education** sectors,
