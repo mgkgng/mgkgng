@@ -4,6 +4,7 @@ My name is **Minguk**, and I'm looking for a professional opportunity.
 I can be your **Full-Stack Developer** and **Software Engineer**.
 
 I would be particularly interested to be engaged in...
+ - Crafting high-quality **tools** for exceptional user experience and productivity optimization
  - building services or products related with **Culture&Art / Entertainement / Education** sectors,
  - or those for the new technologies (**AI / LLM, AR / VR**)
  - and a **remote-friendly** work environment
