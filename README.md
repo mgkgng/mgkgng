@@ -1,35 +1,5 @@
 ### Hi there 👋
 
-My name is **Minguk**, and I'm looking for a professional opportunity.
-I can be your **Full-Stack Developer** and **Software Engineer**.
-
-I would be particularly interested to be engaged in...
- - Crafting high-quality **tools** for exceptional user experience and productivity optimization
- - building services or products related with **Culture&Art / Entertainement / Education** sectors,
- - or those for the new technologies (**AI / LLM, AR / VR**)
- - and a **remote-friendly** work environment
-
-I am currently living in Nice, France, but I am ready to **move**.
-
-Please feel free to reach out ! 🕊️
-
-**Check out my portfolio [here](https://mgkgng.github.io) 💁🏻‍♂️**
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mgkgng)](https://git.io/streak-stats)
-
-![](https://komarev.com/ghpvc/?username=mgkgng&color=brightgreen)
-
-<!--
-**mgkgng/mgkgng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Three.js / WebGL Projects
+🫧 [Rollico](https://rollico-demo.vercel.app/): Katamari inspired game prototype
+🧙🏻‍♀️ [Gothic Stamp](https://gothic-stamp.xyz) : Interactive medieval stamping experience
