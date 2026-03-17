@@ -1,5 +1,5 @@
 ### Hi, I am Minguk 👋
-📍 Paris
+📍 Paris, France
 
 ## Creative Dev Projects
 
