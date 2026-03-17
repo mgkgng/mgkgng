@@ -7,6 +7,6 @@
 * 🧙🏻‍♀️ [Gothic Stamp](https://gothic-stamp.xyz) : Interactive medieval stamping experience
 
 ## Apps / Services
-* 🧼 [Melt](https://google.com): Visual time-tracking app with 3D glass UI
+* 🧼 [Melt](https://melt-intro.vercel.app/): Visual time-tracking app with 3D glass UI
 
 ## Open Source Projects
