@@ -1,7 +1,7 @@
 ### Hi, I am Minguk 👋
 📍 Paris, France
 
-## Creative Dev Projects
+## Creative Projects
 
 * 🫧 [Rollico](https://rollico-demo.vercel.app/): Katamari inspired game prototype
 * 🧙🏻‍♀️ [Gothic Stamp](https://gothic-stamp.xyz) : Interactive medieval stamping experience
