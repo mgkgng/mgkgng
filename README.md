@@ -8,6 +8,6 @@
 
 ## Apps / Services
 * 🧼 [Melt](https://melt-intro.vercel.app/): Visual time-tracking app with 3D glass UI
-* 🫐 [PineTab](https://chromewebstore.google.com/detail/pinetab-tab-organizer/fokcckhehaiibdkfmkoelafjalbnepbj?hl=en) : Tab organizing Chrome extension
+* 🫐 [PineTab](https://chromewebstore.google.com/detail/pinetab-tab-organizer/fokcckhehaiibdkfmkoelafjalbnepbj?hl=en) : Tab organizing Chrome extension (500+ Downloads)
 
 ## Open Source Projects
